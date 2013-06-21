@@ -30,11 +30,11 @@ $( function($){
 		title: "Soal latihan"
 	};
 	
-	$( "#fxType0" ).jQuizMe( quiz, options );
+	//$( "#fxType0" ).jQuizMe( quiz, options );
 	
-	options.title = "fxType 1";
-	options.fxType = 1;
-	$( "#fxType1" ).jQuizMe( quiz, options );	
+	//options.title = "fxType 1";
+	//options.fxType = 1;
+	//$( "#fxType1" ).jQuizMe( quiz, options );	
 	//hanya baris berikut ini aja yang dipakai
 	options.title = "Soal latihan matematika";
 	options.fxType = 2; //ini berhubungan dg kode css di header terkait model animasi
