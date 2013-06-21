@@ -147,18 +147,18 @@
 				yourAns: "Your Answer:"
 			},
 			btn:{	// [ "text", "title" ]
-				begin: [ "Begin Quiz" ],
-				check: [ "Check", "Check your answer" ],
-				del: [ "Delete", "Delete quiz" ],
-				help: [ "Help", 'Click for help'],
-				next: [ "Next", "Next question" ],
-				restart: [ "Restart", "Restart the quit over" ],
-				details: [ "Details", "View score report" ],
-				review: [ "Review", "Review Questions" ],
-				showOnlyMissed: [ " *", "Click to show only missed questions." ],
-				quit: [ "Quit", "Quit quiz" ],
-				quitNo: [ "->", "Go Back" ],
-				quitYes: [ '', "Yes, quit" ]
+				begin: [ "Mulai" ],
+				check: [ "Periksa", "Periksa jawaban Anda" ],
+				del: [ "Hapus", "Hapus kuis" ],
+				help: [ "Bantuan", 'Klik untuk bantuan'],
+				next: [ "Lanjutkan", "Pertanyaan selanjutnya" ],
+				restart: [ "Restart", "Ulangi kuis dari awal" ],
+				details: [ "Detail", "Lihat laporan kuis" ],
+				review: [ "Review", "Review Jawaban" ],
+				showOnlyMissed: [ " *", "Klik untuk menampilkan jawaban yang salah saja." ],
+				quit: [ "Keluar", "Keluar dari kuis" ],
+				quitNo: [ "->", "Kembali" ],
+				quitYes: [ '', "Ya, keluar" ]
 			},
 			err:{
 				ansInfoNotDefined: "Property ansInfo must be a string and be defined when ansSelInfo is defined.",
