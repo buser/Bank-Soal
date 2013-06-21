@@ -140,11 +140,11 @@
 	isBadMSIE = ( isMSIE && isMSIE[0].match(/\d/)[0] < 9 ),
 	_lang = {
 			ans:{	// _lang.ans are shown during the display of .q-result, the answer result.
-				corrAns: "Correct answer(s):",
+				corrAns: "Jawaban Benar:",
 				praise: 'Great Job. Right!',
-				retry: 'Incorrect.<br/>Please try another answer.',
+				retry: 'Salah.<br/>Coba lagi dengan lain jawaban.',
 				whyAns: "Info:",
-				yourAns: "Your Answer:"
+				yourAns: "Jawaban Anda:"
 			},
 			btn:{	// [ "text", "title" ]
 				begin: [ "Mulai" ],
