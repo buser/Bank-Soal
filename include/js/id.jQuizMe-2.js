@@ -1,26 +1,26 @@
 var default_Langauge = {
                 ans:{   // The "ans" attributes are shown during the display of .q-result(the answer result).
-                        corrAns: "Correct answer(s):",
-                        praise: 'Great Job. Right!',
+                        corrAns: "Jawaban Benar:",
+                        praise: 'Bagus. Luar Biasa!',
                         whyAns: "Info:",
-                        yourAns: "Your Answer:"
+                        yourAns: "Jawaban Anda:"
                 },
                 btn:{  
                 // [ "text", "title" ],
                 // The button will display the text, and show the title when the user hover over the button.
                 // The "title" is not required.
-                        begin: [ "Begin Quiz" ],
-                        check: [ "Check", "Check your answer" ],
-                        del: [ "Delete", "Delete quiz" ],
-                        help: [ "Help", 'Click for help'],
-                        next: [ "Next", "Next question" ],
-                        restart: [ "Restart", "Restart the quit over" ],
-                        details: [ "Details", "View score report" ],
-                        review: [ "Review", "Review Questions" ],
-                        showOnlyMissed: [ " *", "Click to show only missed questions." ],
-                        quit: [ "Quit", "Quit quiz" ],
-                        quitNo: [ "->", "Go Back" ],
-                        quitYes: [ '', "Yes, quit" ]
+                        begin: [ "Mulai Kuis" ],
+                        check: [ "Periksa", "Periksa jawaban Anda" ],
+                        del: [ "Hapus", "Hapus kuis" ],
+                        help: [ "Bantuan", 'Klik unuk bantuan'],
+                        next: [ "Lanjut", "Pertanyaan selanjutnya" ],
+                        restart: [ "Restart", "Ulangi lagi dari awal" ],
+                        details: [ "Detail", "Lihat laporan nilai" ],
+                        review: [ "Review", "Review Pertanyaan" ],
+                        showOnlyMissed: [ " *", "Klik untuk menampilkan jawaban yang salah saja." ],
+                        quit: [ "Keluar", "Keluar" ],
+                        quitNo: [ "->", "Kembali" ],
+                        quitYes: [ '', "Ya, keluar" ]
                 },
                 err:{
                         badQType: "Invalid quiz type.",
