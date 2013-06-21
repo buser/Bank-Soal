@@ -172,12 +172,12 @@
 				notObj: "Invalid quiz data structure. Must be an array or object."
 			},
 			stats:{
-				right: "Right",
-				rate: "Rate",
-				score: "Score",
-				wrong: "Wrong",
+				right: "Benar",
+				rate: "Hitungan",
+				score: "Nilai",
+				wrong: "Salah",
 				total: "Total",
-				tried: "Tried"
+				tried: "Mencoba"
 			},
 			quiz:{
 				tfEqual: " = ",
