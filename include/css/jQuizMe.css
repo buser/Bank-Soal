@@ -10,7 +10,7 @@
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	position: relative;
 	padding: 0.2em;
-	width: 30em;
+	width: 20em;
 }
 .quiz-el div{
 	padding: 0.2em;
@@ -22,7 +22,7 @@
 .q-innerArea{
 	background: #ffdd77;
 	position:relative;
-	clear: both;
+	clear: both;1
 	color: black;
 }
 .q-header, .q-help, .q-review-menu {
