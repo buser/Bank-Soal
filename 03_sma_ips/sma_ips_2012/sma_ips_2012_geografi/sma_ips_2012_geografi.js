@@ -41,39 +41,39 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 7
-				ques: "", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ques: "Pernyataan:<br> (1) kesamaan fosil di pantai timur Amerika Selatan dengan pantai barat Afrika;<br> (2) kesamaan struktur batuan di pantai barat Amerika Selatan dengan pantai barat Afrika;<br> (3) pulau Greenland mendekati benua Eropa;<br> (4) samudera Atlantik semakin luas;<br> (5) benua Amerika bergerak ke arah barat.<br> Bukti gerakan lempeng tektonik menurut Alfred Wegener terdapat pada angka ....", 
+				ans: "(1), (2), dan (4)",
+				ansSel: ["(1), (2), dan (3)",null,"(1), (4), dan (5)","(2), (3), dan (5)","(3), (4), dan (5)"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 8
-				ques: "", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ques: "Ciri-ciri planet:<br> (1) tidak memiliki atmosfer;<br> (2) perbedaan suhu bagian terang dan gelap kontras;<br> (3) merupakan planet terkecil dalam Tatasurya;<br> (4) jarak rata-rata ke Matahari = 58 juta km.<br> Planet yang sesuai dengan ciri di atas adalah ....", 
+				ans: "Merkurius",
+				ansSel: ["Venus",null,"Neptunus","Saturnus","Uranus"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 9
-				ques: "", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ques: "Ciri khas teori <i>The Oscillating theory</i> tentang pembentukan alam raya adalah adanya....", 
+				ans: "siklus materi",
+				ansSel: ["reaksi pada inti massa","zat baru selalu diciptakan","reaksi berantai","materi saling menjauh",null],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 10
-				ques: "", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ques: "Proses pendinginan dan metamorfosis pada gambar siklus batuan ditunjukkan angka ....<br><img src='sma_ips_2012_geografi_10.jpg'>", 
+				ans: "1 dan 3",
+				ansSel: ["1 dan 2",null,"1 dan 4","2 dan 3","3 dan 4"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 11
-				ques: "", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ques: "Tindakan terbaik yang harus dilakukan saat berada di dalam ruangan/bangunan bila terjadi gempa adalah....", 
+				ans: "berlindung di bawah meja atau benda yang kokoh",
+				ansSel: ["menelepon pihak berwajib untuk memberitahu telah terjadi gempa","berteriak dengan kencang meminta tolong pada orang lain","diam di tempat hingga gempa berakhir dan bersikap tenang",null,"secepatnya keluar gedung dengan menggu na kan lift"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 12
-				ques: "", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ques: "Gejala gunung api:<br>(1) intrusi magma;<br>(2) ekstrusi magma;<br>(3) erupsi eksplosif;<br>(4) munculnya geyser;<br>(5) erupsi areal.<br>Gejala vulkanisme terdapat pada angka ....", 
+				ans: "(2), (3), dan (5)",
+				ansSel: ["(1), (3), dan (4) ","(1), (4), dan (5)","(2), (3), dan (4)",null,"(3), (4), dan (5)"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 13
