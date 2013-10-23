@@ -8,25 +8,301 @@ $( function($){
 				ques: "Pernyataan:<br>(1) perkebunan teh terdapat di daerah yang memiliki iklim sejuk;<br>(2) kerusakan hutan akibat penebangan ilegal; <br>(3) penduduk menjual hasil panen ke pasar;<br>(4) jaringan jalan mengikuti relief gunung;<br>(5) kegiatan ekonomi penduduk sesuai potensi wilayah.<br>Fenomena yang tergolong aspek fisik terdapat pada angka ....", //question
 				ans: "(1), (2), dan (4)", // answer
 				ansSel: [ "(1), (2), dan (3)",null,"(1), (3), dan (5)","(2), (4), dan (5)","(3), (4), dan (5)"],
-				ansInfo : "More info <a href='http://www.periodictable.com/Elements/079/index.html'>here</a>"  // answer information.
+				ansInfo : "edufunia.com"  // answer information.
 			},
 			{	//soal 2
 				ques: "Penduduk pedesaan menjual hasil pertanian dan perkebunan ke kota dan dari perkotaan penduduk membeli berbagai jenis kebutuhan hidup seperti: pakaian, peralatan elektronik, dan kendaraan. <br> Prinsip geografi yang berkaitan dengan hal tersebut adalah ....", 
 				ans: "prinsip interelasi",
 				ansSel: [ "prinsip korologi",null,"prinsip distribusi","prinsip interaksi","prinsip deskripsi"],
-				ansInfo : "Gold-Au <br/>More info <a href='http://www.periodictable.com/Elements/079/index.html'>here</a>"
+				ansInfo : "edufunia.com"
 			},
 			{	//soal 3
 				ques:"Banjir bandang yang melanda kota Padang dan kabupaten Padang Pariaman Sumatera Barat 24 Juli 2012, berakibat rusaknya pemukiman penduduk, perkantoran, dan saluran irigasi di daerah tersebut. <br> Pendekatan geografi yang digunakan untuk mengkaji fenomena tersebut adalah ....",
-				ans:"Just because...",				
-				ansSel : [ "The <i><b>answer</b></i> is below", null, "The answer is above"],
-				ansInfo : "Gold-Au <br/>More info <a href='http://www.periodictable.com/Elements/079/index.html'>here</a>"
+				ans:"pendekatan kelingkungan",				
+				ansSel : [ "pendekatan korelasi","pendekatan keruangan","pendekatan kompleks kewilayahan","pendekatan regional",null],
+				ansInfo : "edufunia.com"
 			},
 			{	//soal 4
-				ques: "dfgdfgdfgdg ....", 
-				ans: "prinsip interelasi",
-				ansSel: [ "prinsip korologi",null,"prinsip distribusi","prinsip interaksi","prinsip deskripsi"],
-				ansInfo : "Gold-Au <br/>More info <a href='http://www.periodictable.com/Elements/079/index.html'>here</a>"
+				ques: "Pola pemukiman di sepanjang sungai dan jalan raya cenderung memanjang mengikuti sungai dan jalan raya, sedang pemukiman di dataran rendah cenderung mengelompok. <br> Konsep geografi yang berkaitan dengan hal tersebut adalah ....", 
+				ans: "konsep pola",
+				ansSel: ["konsep lokasi","konsep morfologi","konsep aglomerasi",null,"konsep interaksi"],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 5
+				ques: "Ciri khas proses pembentukan Tatasurya menurut Teori Pasang Surut adalah ....", 
+				ans: "planet-planet berasal dari material Matahari",
+				ansSel: ["Matahari terbentuk bersama dengan Tatasurya","planet yang terbentuk ukurannya sama","planet-planet berasal dari gumpalan kabut awan","Tatasurya terbentuk dari ledakan besar Matahari",null],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 6
+				ques: "Akibat yang ditimbulkan oleh dua lempeng yang saling bertumbukan seperti antara lempeng Eurasia dengan India adalah terbentuknya ....", 
+				ans: "Pegunungan Himalaya",
+				ansSel: [null,"Pegunungan Rockey","Pegunungan Andes","Palung Mindanao","Basin Laut Banda"],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 7
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 8
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 9
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 10
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 11
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 12
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 13
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 14
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 15
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 16
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 17
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 18
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 19
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 20
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 21
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 22
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 23
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 24
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 25
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 26
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 27
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 28
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 29
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 30
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 31
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 32
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 33
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 34
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 35
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 36
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 37
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 38
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 39
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 40
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 41
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 42
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 43
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 44
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 45
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 46
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 47
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 48
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 49
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
+			},
+			{	//soal 50
+				ques: "", 
+				ans: "",
+				ansSel: ["","","","",""],
+				ansInfo : "edufunia.com"
 			}
 		]
 	};
