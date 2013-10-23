@@ -141,7 +141,7 @@
 	_lang = {
 			ans:{	// _lang.ans are shown during the display of .q-result, the answer result.
 				corrAns: "Jawaban Benar:",
-				praise: 'Great Job. Right!',
+				praise: 'Kerja bagus. Benar!',
 				retry: 'Salah.<br/>Coba lagi dengan lain jawaban.',
 				whyAns: "Info:",
 				yourAns: "Jawaban Anda:"
