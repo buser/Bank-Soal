@@ -67,7 +67,7 @@ $( function($){
 			{	//soal 11
 				ques: "Tindakan terbaik yang harus dilakukan saat berada di dalam ruangan/bangunan bila terjadi gempa adalah....", 
 				ans: "berlindung di bawah meja atau benda yang kokoh",
-				ansSel: ["menelepon pihak berwajib untuk memberitahu telah terjadi gempa","berteriak dengan kencang meminta tolong pada orang lain","diam di tempat hingga gempa berakhir dan bersikap tenang",null,"secepatnya keluar gedung dengan menggu na kan lift"],
+				ansSel: ["menelepon pihak berwajib untuk memberitahu telah terjadi gempa","berteriak dengan kencang meminta tolong pada orang lain","diam di tempat hingga gempa berakhir dan bersikap tenang",null,"secepatnya keluar gedung dengan menggunakan lift"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 12
