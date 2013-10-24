@@ -245,31 +245,31 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 41
-				ques: "", 
+				ques: "Pernyataan:<br>(1) manajemen pemilihan jaringan jalan;<br>(2) pemilihan lokasi proyek;<br>(3) analisis kesesuaian rute;<br>(4) mengindentifikasi fenomena perusahaan penduduk;<br>(5) melakukan evaluasi terhadap batas wilayah;<br>Manfaat Sistem informasi Geografis untuk pengelolaan jaringan jalan terdapat pada angka ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 42
-				ques: "", 
+				ques: "Pernyataan:<br>(1) data dapat dikelola dalam format yang kompak dan jelas;<br>(2) data dapat dianalisis secara efisien;<br>(3) data mudah untuk dimanipulasi;<br>(4) data dapat diperjualbelikan;<br>(5) data harus dijaga karena sulit mendapat kannya.<br>Keunggulan dari Sistem Informasi Geografis terdapat pada angka ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 43
-				ques: "", 
+				ques: "Ciri-ciri masyarakat desa:<br>(1) ketergantungan pada alam;<br>(2) adat-istiadat mengalami transisi;<br>(3) lembaga-lembaga sosial masih sederhana;<br>(4) mata pencaharian mulai heterogen;<br>(5) pendidikan dan keterampilan masih rendah.<br>Klasifikasi desa swakarya terdapat pada angka ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 44
-				ques: "", 
+				ques: "Angka 5 pada gambar sesuai teori sektor menunjukkan zona ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 45
-				ques: "", 
+				ques: "Pola pemukiman desa yang terbentuk pada gambar adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
