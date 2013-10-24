@@ -59,7 +59,7 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 10
-				ques: "Proses pendinginan dan metamorfosis pada gambar siklus batuan ditunjukkan angka ....<br><img src='sma_ips_2012_geografi_10.jpg'>", 
+				ques: "Proses pendinginan dan metamorfosis pada gambar siklus batuan ditunjukkan angka ....<br><img src='sma_ips_geografi_2012_10.jpg'>", 
 				ans: "1 dan 3",
 				ansSel: ["1 dan 2",null,"1 dan 4","2 dan 3","3 dan 4"],
 				ansInfo : "edufunia.com"
