@@ -275,31 +275,31 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 46
-				ques: "", 
+				ques: "Lokasi titik henti dari interaksi desa A ke kota B sesuai ilustrasi gambar adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 47
-				ques: "", 
+				ques: "Arah pembangunan wilayah yang pesat seperti gambar adalah dari pusat kegiatan menuju ke....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 48
-				ques: "", 
+				ques: "Negara berkembang yang terdapat pada peta adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 49
-				ques: "", 
+				ques: "Ciri-ciri negara:<br>(1) penguasaan teknologi tinggi;<br>(2) tingkat kelahiran penduduk rendah;<br>(3) tingkat pendapatan penduduk tinggi;<br>(4) tingkat pendidikan penduduk rendah;<br>(5) sumber perekonomian terbesar dari sektor agraris.<br>Ciri dari negara maju terdapat pada angka ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 50
-				ques: "", 
+				ques: "Model pembangunan wilayah negara berkembang adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
