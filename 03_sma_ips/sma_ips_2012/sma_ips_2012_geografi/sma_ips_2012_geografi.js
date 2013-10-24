@@ -221,25 +221,25 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 37
-				ques: "", 
+				ques: "Siswa kelas tiga akan mengadakan perpisahan dengan mendaki gunung maka jenis peta yang dibutuhkan ketua regu adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 38
-				ques: "", 
+				ques: "Pemanfaatan citra dalam bidang pertanian adalah perekaman ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 39
-				ques: "", 
+				ques: "Karakteristik obyek pada citra:<br>(1) bentuk dan ukuran rumah sama;<br>(2) pola perumahan memanjang mengikuti jalan tanah;<br>(3) jarak rumah satu sama lain sama;<br>(4) sekitar rumah terdapat pekarangan yang luasnya sama;<br>(5) tampak ada tanaman dari bertekstur sedang sampai kasar.<br>Obyek yang tergambar kemungkinan pemukiman di daerah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 40
-				ques: "", 
+				ques: "Jika pabrik gula pasir didirikan di wilayah perkebunan maka pertimbangannya adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
