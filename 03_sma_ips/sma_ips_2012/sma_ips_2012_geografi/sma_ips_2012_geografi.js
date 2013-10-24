@@ -77,133 +77,133 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 13
-				ques: "", 
+				ques: "Faktor penyebab gempa Bumi tektonik memberikan dampak korban yang besar adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 14
-				ques: "", 
+				ques: "Pernyataan: <br>(1) manusia; <br>(2) tekstur batuan; <br>(3) batuan induk; <br>(4) iklim; <br>(5) topografi.", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 15
-				ques: "", 
+				ques: "Pernyataan:<br>(1) temperatur rata-rata bulan terpanas 20° C;<br>(2) suhu rata-rata tahunan tinggi karena berada di daerah katulistiwa;<br>(3) bebas dari angin taifun karena terletak pada lintang rendah;<br>(4) pada bulan kering jumlah hujan kurang dari 30 m;<br>(5) kelembaban udara tinggi karena berbentuk kepulauan.<br>Ciri-ciri iklim di wilayah Indonesia terdapat pada angka ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 16
-				ques: "", 
+				ques: "Pola aliran sungai di daerah yang relatif datar, dengan ciri anak-anak sungai bermuara pada sungai induk secara tidak teratur, membentuk sudut tumpul dan lancip adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 17
-				ques: "", 
+				ques: "Faktor-faktor yang memengaruhi infiltrasi di suatu daerah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 18
-				ques: "", 
+				ques: "Angka 2 sesuai gambar siklus hidrologi adalah", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 19
-				ques: "", 
+				ques: "Wilayah Indonesia yang mengalami musim hujan sesuai arah angin (April-Oktober) seperti gambar adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 20
-				ques: "", 
+				ques: "Dampak pertemuan arus Kuroshio dan Oyashio bagi Jepang adalah ...", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 21
-				ques: "", 
+				ques: "Hewan/fauna asli dari daerah Papua adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 22
-				ques: "", 
+				ques: "Persebaran hutan Indonesia secara berurutan dari barat ke timur adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 23
-				ques: "", 
+				ques: "Daerah sabana di Nusa Tenggara Timur dan Sulawesi Selatan dimanfaatkan penduduk untuk usaha ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 24
-				ques: "", 
+				ques: "Faktor fisiografik yang berpengaruh terhadap flora dan fauna di muka bumi adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 25
-				ques: "", 
+				ques: "Pergerakan penduduk dari daerah seperti Karawang, Bekasi, Bogor dan Tangerang menuju DKI Jakarta tempat ia bekerja setiap harinya semakin membuat tingginya tingkat kemacetan.<br>Pola pergerakan tersebut dapat digolongkan sebagai ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 26
-				ques: "", 
+				ques: "Dampak dari pertumbuhan penduduk yang tinggi adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 27
-				ques: "", 
+				ques: "Faktor-faktor yang menyebabkan dinamika penduduk di suatu daerah adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 28
-				ques: "", 
+				ques: "Klasifikasi sumber daya alam yang tidak dapat diperbarui dan termasuk bahan galian golongan A adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 29
-				ques: "", 
+				ques: "Faktor penghambat dalam penggunaan sumber daya alam adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 30
-				ques: "", 
+				ques: "Ciri pembangunan berkelanjutan ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 31
-				ques: "", 
+				ques: "Pemanfaatan sumber daya laut yang sesuai dengan pembangunan berkelanjutan adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 32
-				ques: "", 
+				ques: "Meningkatnya emisi gas rumah kaca dapat mengakibatkan terjadinya perubahan iklim global. Upaya yang dilakukan untuk mengendalikan permasalahan di atas adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 33
-				ques: "", 
+				ques: "Wilayah yang diberi tanda X pada peta adalah wilayah Konservasi ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 34
-				ques: "", 
+				ques: "Ketinggian titik A sesuai ilustrasi gambar adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
