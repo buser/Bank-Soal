@@ -209,13 +209,13 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 35
-				ques: "", 
+				ques: "Skala peta 1 sesuai ilustrasi gambar adalah....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 36
-				ques: "", 
+				ques: "Jenis-jenis peta:<br>- peta Topografi;<br>- peta Curah Hujan;<br>- peta Jenis Tanah.<br>Informasi yang diperoleh dari peta tersebut adalah untuk menentukan lokasi kegiatan ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
