@@ -120,14 +120,14 @@ $( function($){
 			},
 			{	//soal 20
 				ques: "Dampak pertemuan arus Kuroshio dan Oyashio bagi Jepang adalah ...", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "Jepang tumbuh sebagai negara penghasil ikan",
+				ansSel: ["jalur lalulintas Jepang banyak yang membeku","musim dingin pelabuhan di Jepang tidak membeku","aktivitas perekonomian Jepang terganggu di musim dingin",null,"musim dingin pelabuhan-pelabuhan di Jepang membeku"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 21
 				ques: "Hewan/fauna asli dari daerah Papua adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "burung kasuari",
+				ansSel: [null,"babi rusa","burung elang","komodo","badak bercula satu"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 22
