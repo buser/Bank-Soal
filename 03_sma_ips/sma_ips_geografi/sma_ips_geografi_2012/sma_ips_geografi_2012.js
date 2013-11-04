@@ -107,13 +107,13 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 18
-				ques: "Angka 2 sesuai gambar siklus hidrologi adalah", 
+				ques: "Angka 2 sesuai gambar siklus hidrologi adalah.... <br><img src='sma_ips_geografi_2012_18.jpg'>", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 19
-				ques: "Wilayah Indonesia yang mengalami musim hujan sesuai arah angin (April-Oktober) seperti gambar adalah ....", 
+				ques: "Wilayah Indonesia yang mengalami musim hujan sesuai arah angin (April-Oktober) seperti gambar adalah ....<br><img src='sma_ips_geografi_2012_19.jpg'>", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
@@ -197,19 +197,19 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 33
-				ques: "Wilayah yang diberi tanda X pada peta adalah wilayah Konservasi ....", 
+				ques: "<img src='sma_ips_geografi_2012_33.jpg'><br>Wilayah yang diberi tanda X pada peta adalah wilayah Konservasi ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 34
-				ques: "Ketinggian titik A sesuai ilustrasi gambar adalah ....", 
+				ques: "<img src='sma_ips_geografi_2012_34.jpg'><br>Ketinggian titik A sesuai ilustrasi gambar adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 35
-				ques: "Skala peta 1 sesuai ilustrasi gambar adalah....", 
+				ques: "<img src='sma_ips_geografi_2012_35.jpg'><br>Skala peta 1 sesuai ilustrasi gambar adalah....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
@@ -239,7 +239,7 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 40
-				ques: "Jika pabrik gula pasir didirikan di wilayah perkebunan maka pertimbangannya adalah ....", 
+				ques: "<img src='sma_ips_geografi_2012_40.jpg'><br>Jika pabrik gula pasir didirikan di wilayah perkebunan maka pertimbangannya adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
@@ -263,31 +263,31 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 44
-				ques: "Angka 5 pada gambar sesuai teori sektor menunjukkan zona ....", 
+				ques: "<img src='sma_ips_geografi_2012_44.jpg'><br>Angka 5 pada gambar sesuai teori sektor menunjukkan zona ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 45
-				ques: "Pola pemukiman desa yang terbentuk pada gambar adalah ....", 
+				ques: "<img src='sma_ips_geografi_2012_45.jpg'><br>Pola pemukiman desa yang terbentuk pada gambar adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 46
-				ques: "Lokasi titik henti dari interaksi desa A ke kota B sesuai ilustrasi gambar adalah ....", 
+				ques: "<img src='sma_ips_geografi_2012_46.jpg'><br>Lokasi titik henti dari interaksi desa A ke kota B sesuai ilustrasi gambar adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 47
-				ques: "Arah pembangunan wilayah yang pesat seperti gambar adalah dari pusat kegiatan menuju ke....", 
+				ques: "<img src='sma_ips_geografi_2012_47.jpg'><br>Arah pembangunan wilayah yang pesat seperti gambar adalah dari pusat kegiatan menuju ke....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 48
-				ques: "Negara berkembang yang terdapat pada peta adalah ....", 
+				ques: "<img src='sma_ips_geografi_2012_48.jpg'><br>Negara berkembang yang terdapat pada peta adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
