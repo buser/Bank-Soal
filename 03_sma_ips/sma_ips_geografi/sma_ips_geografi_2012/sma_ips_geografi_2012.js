@@ -96,8 +96,8 @@ $( function($){
 			},
 			{	//soal 16
 				ques: "Pola aliran sungai di daerah yang relatif datar, dengan ciri anak-anak sungai bermuara pada sungai induk secara tidak teratur, membentuk sudut tumpul dan lancip adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "pola dendritik",
+				ansSel: ["pola radial sentripetal","pola radial sentrifugal",null,"pola anular","pola trellis"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 17
