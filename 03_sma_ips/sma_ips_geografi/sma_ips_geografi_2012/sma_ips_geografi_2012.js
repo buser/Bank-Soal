@@ -78,8 +78,8 @@ $( function($){
 			},
 			{	//soal 13
 				ques: "Faktor penyebab gempa Bumi tektonik memberikan dampak korban yang besar adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "tumbukan antar lempeng yang meliputi wilayah yang sangat luas",
+				ansSel: ["peristiwa intrusi magma yang membentuk batuan beku","aktivitas vulkanisme karena pergerakan dan tekanan magmatis",null,"penurunan dasar laut dalam jangka waktu yang sangat lama","aktivitas vulkanisme yang berangkai membentuk jalur yang memanjang"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 14
