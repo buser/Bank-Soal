@@ -90,8 +90,8 @@ $( function($){
 			},
 			{	//soal 15
 				ques: "Pernyataan:<br>(1) temperatur rata-rata bulan terpanas 20° C;<br>(2) suhu rata-rata tahunan tinggi karena berada di daerah katulistiwa;<br>(3) bebas dari angin taifun karena terletak pada lintang rendah;<br>(4) pada bulan kering jumlah hujan kurang dari 30 m;<br>(5) kelembaban udara tinggi karena berbentuk kepulauan.<br>Ciri-ciri iklim di wilayah Indonesia terdapat pada angka ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "(2), (3), dan (5)",
+				ansSel: ["(1), (3), dan (4)","(1), (4), dan (5)","(2), (3), dan (4)",null,"(3), (4), dan (5)"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 16
