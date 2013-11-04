@@ -132,8 +132,8 @@ $( function($){
 			},
 			{	//soal 22
 				ques: "Persebaran hutan Indonesia secara berurutan dari barat ke timur adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "hutan hujan tropik - hutan musim - sabana tropik",
+				ansSel: ["hutan musim - hutan hujan tropik - sabana tropik","hutan musim - sabana tropik - hutan hujan tropik",null,"hutan hujan tropik - sabana tropik - hujan musim","sabana tropik - hutan musim - hutan hujan tropik"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 23
