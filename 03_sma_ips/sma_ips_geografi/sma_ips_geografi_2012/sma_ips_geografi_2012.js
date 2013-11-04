@@ -108,8 +108,8 @@ $( function($){
 			},
 			{	//soal 18
 				ques: "Angka 2 sesuai gambar siklus hidrologi adalah.... <br><img src='sma_ips_geografi_2012_18.jpg'>", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "evaporasi",
+				ansSel: ["infiltrasi",null,"kondensasi","curahan","penyerapan"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 19
