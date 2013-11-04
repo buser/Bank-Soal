@@ -156,8 +156,8 @@ $( function($){
 			},
 			{	//soal 26
 				ques: "Dampak dari pertumbuhan penduduk yang tinggi adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "beban ketergantungan akan tinggi",
+				ansSel: [null,"seks rasio tidak akan imbang","jumlah angkatan kerja meningkat","migrasi penduduk semakin tinggi","arus urbanisasi semakin tinggi"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 27
