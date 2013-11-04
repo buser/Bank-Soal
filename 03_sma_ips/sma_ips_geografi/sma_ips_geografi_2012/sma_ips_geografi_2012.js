@@ -138,8 +138,8 @@ $( function($){
 			},
 			{	//soal 23
 				ques: "Daerah sabana di Nusa Tenggara Timur dan Sulawesi Selatan dimanfaatkan penduduk untuk usaha ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "peternakan",
+				ansSel: ["perkayuan","perladangan",null,"pertanian","perkebunan"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 24
