@@ -144,8 +144,8 @@ $( function($){
 			},
 			{	//soal 24
 				ques: "Faktor fisiografik yang berpengaruh terhadap flora dan fauna di muka bumi adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "topografi dan ketinggian",
+				ansSel: ["suhu dan curah hujan","ketinggian dan curah hujan",null,"suhu dan arah angin","topografi dan suhu"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 25
