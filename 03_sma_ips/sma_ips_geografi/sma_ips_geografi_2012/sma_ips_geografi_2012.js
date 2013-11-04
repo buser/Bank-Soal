@@ -102,8 +102,8 @@ $( function($){
 			},
 			{	//soal 17
 				ques: "Faktor-faktor yang memengaruhi infiltrasi di suatu daerah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "kemiringan lereng dan permeabilitas tanah",
+				ansSel: ["kedalaman dan permeabilitas tanah",null,"sudut datang sinar Matahari dan kemiringan lereng","kemiringan lereng dan sedimentasi","kemiringan lereng dan kedalaman"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 18
