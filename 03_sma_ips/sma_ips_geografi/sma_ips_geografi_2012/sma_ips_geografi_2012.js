@@ -84,8 +84,8 @@ $( function($){
 			},
 			{	//soal 14
 				ques: "Pernyataan: <br>(1) manusia; <br>(2) tekstur batuan; <br>(3) batuan induk; <br>(4) iklim; <br>(5) topografi.", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "(3), (4), dan (5)",
+				ansSel: ["(1), (2), dan (3)","(1), (3), dan (4)","(2), (3), dan (4)","(2), (3), dan (5)",null],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 15
