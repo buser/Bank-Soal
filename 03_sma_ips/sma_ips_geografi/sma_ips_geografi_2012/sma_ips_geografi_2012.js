@@ -114,8 +114,8 @@ $( function($){
 			},
 			{	//soal 19
 				ques: "Wilayah Indonesia yang mengalami musim hujan sesuai arah angin (April-Oktober) seperti gambar adalah ....<br><img src='sma_ips_geografi_2012_19.jpg'>", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "Nusa Tenggara dan Bali",
+				ansSel: [null,"Sumatera dan Jawa","Kalimantan dan Maluku","Sulawesi dan Papua","Nusa Tenggara dan Jawa"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 20
