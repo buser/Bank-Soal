@@ -150,8 +150,8 @@ $( function($){
 			},
 			{	//soal 25
 				ques: "Pergerakan penduduk dari daerah seperti Karawang, Bekasi, Bogor dan Tangerang menuju DKI Jakarta tempat ia bekerja setiap harinya semakin membuat tingginya tingkat kemacetan.<br>Pola pergerakan tersebut dapat digolongkan sebagai ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "migrasi sirkuler",
+				ansSel: ["ruralisasi","transmigrasi",null,"migrasi musiman","urbanisasi"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 26
