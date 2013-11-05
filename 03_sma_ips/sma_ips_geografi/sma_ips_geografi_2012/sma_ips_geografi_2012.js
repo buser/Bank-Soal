@@ -246,8 +246,8 @@ $( function($){
 			},
 			{	//soal 41
 				ques: "Pernyataan:<br>(1) manajemen pemilihan jaringan jalan;<br>(2) pemilihan lokasi proyek;<br>(3) analisis kesesuaian rute;<br>(4) mengindentifikasi fenomena perusahaan penduduk;<br>(5) melakukan evaluasi terhadap batas wilayah;<br>Manfaat Sistem informasi Geografis untuk pengelolaan jaringan jalan terdapat pada angka ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "(1), (2), dan (3)",
+				ansSel: [null,"(1), (2), dan (4)","(1), (3), dan (5)","(2), (4), dan (5)","(3), (4), dan (5)"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 42
