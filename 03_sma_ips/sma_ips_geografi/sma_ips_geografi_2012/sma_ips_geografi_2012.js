@@ -1,8 +1,11 @@
 /*
 Anda dapat menambah informasi seperlunya mengenai peran yang Anda lakukan berkenaan dengan soal ini, dengan catatan tidak mengubah informasi yang sudah ada.
 
-Soal dalam bentuk ini dibuat oleh Hasan Busro, S.P. Telp. 085 655 309 120
+Soal dalam bentuk ini dibuat oleh:
+  >> Hasan Busro, S.P. Telp. 085 655 309 120
+  >> Ni'matus Saidah, S.Si
 Soal dibuat dengan menggunakan library ..............
+
 
 ##################################################################################
 #                                 UJIAN NASIONAL                                 #
