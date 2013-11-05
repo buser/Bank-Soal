@@ -162,8 +162,8 @@ $( function($){
 			},
 			{	//soal 27
 				ques: "Faktor-faktor yang menyebabkan dinamika penduduk di suatu daerah adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "kelahiran, kematian, dan migrasi",
+				ansSel: [null,"kematian, kepadatan, dan ketergantungan","migrasi, kepadatan, dan ketergantungan","kepadatan, mobilitas, dan mata pencarian","kepadatan, mobilitas, dan ketergantungan"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 28
