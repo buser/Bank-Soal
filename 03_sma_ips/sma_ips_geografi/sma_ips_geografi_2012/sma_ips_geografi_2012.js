@@ -168,20 +168,20 @@ $( function($){
 			},
 			{	//soal 28
 				ques: "Klasifikasi sumber daya alam yang tidak dapat diperbarui dan termasuk bahan galian golongan A adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "batubara, minyak bumi, dan uranium",
+				ansSel: [null,"emas, perak, seng, dan mika","kapur, batubara, dan emas","kaolin, pasir besi, dan marmer","aluminium, pasir kuarsa, dan gas alam"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 29
 				ques: "Faktor penghambat dalam penggunaan sumber daya alam adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "kurangnya tenaga ahli dan kurangnya modal",
+				ansSel: ["jumlah penduduk banyak dan kurangnya tenaga ahli","iklim tidak menentu dan investasi modal sedikit",null,"kurangnya modal dan jumlah penduduk banyak","sumber daya banyak dan beraneka ragam"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 30
 				ques: "Ciri pembangunan berkelanjutan ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "memenuhi kebutuhan sekarang tanpa mengorbankan generasi yang akan datang",
+				ansSel: ["menghasilkan produk yang bermanfaat khususnya bidang pangan",null,"menggunakan biaya pengolahan kecil dengan hasil yang besar","memenuhi kebutuhan seluruh masyarakat dengan biaya murah agar terjangkau","membiarkan semua sumber daya alam tanpa mengubah sedikitpun kondisinya"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 31
