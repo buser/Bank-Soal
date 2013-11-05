@@ -198,8 +198,8 @@ $( function($){
 			},
 			{	//soal 33
 				ques: "<img src='sma_ips_geografi_2012_33.jpg'><br>Wilayah yang diberi tanda X pada peta adalah wilayah Konservasi ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "Bunaken, melindungi ikan hias, penyu, dan taman laut",
+				ansSel: ["Morowali, melindungi babi hutan, satwa liar, dan terumbu karang","Pulau Dua, melestarikan taman laut, hutan bakau, dan ikan duyung","Rimbo Panti, melindungi biawak, komodo, dan ikan hias","Karimata, melestarikan hutan bakau, ikan duyung, dan terumbu karang",null],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 34
