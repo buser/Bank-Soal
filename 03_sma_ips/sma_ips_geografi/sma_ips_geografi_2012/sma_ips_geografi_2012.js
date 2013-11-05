@@ -222,14 +222,14 @@ $( function($){
 			},
 			{	//soal 37
 				ques: "Siswa kelas tiga akan mengadakan perpisahan dengan mendaki gunung maka jenis peta yang dibutuhkan ketua regu adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "peta topografi",
+				ansSel: ["peta tata guna lahan","peta transportasi","peta kenampakan alam","peta pariwisata",null],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 38
 				ques: "Pemanfaatan citra dalam bidang pertanian adalah perekaman ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "pola musim tanam dengan produknya",
+				ansSel: ["pemetaan penggunaan lahan","hasil pertanian dari waktu ke waktu","kegunaan lahan dari masa ke masa",null,"pergerakan pola tanam di lahan pertanian"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 39
