@@ -192,8 +192,8 @@ $( function($){
 			},
 			{	//soal 32
 				ques: "Meningkatnya emisi gas rumah kaca dapat mengakibatkan terjadinya perubahan iklim global. Upaya yang dilakukan untuk mengendalikan permasalahan di atas adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "menanam pohon dan menggunakan bahan bakar ramah lingkungan",
+				ansSel: ["mengganti bahan bakar gas alam dengan bahan bakar kayu","menghemat listrik dengan menggunakan lampu minyak","membuat peraturan tegas bagi pengguna kendaraan bermotor","mengubur limbah padat agar udara tidak tercemar",null],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 33
