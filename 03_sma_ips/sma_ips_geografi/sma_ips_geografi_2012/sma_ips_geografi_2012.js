@@ -288,14 +288,14 @@ $( function($){
 			},
 			{	//soal 48
 				ques: "<img src='sma_ips_geografi_2012_48.jpg'><br>Negara berkembang yang terdapat pada peta adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "India, Sri Lanka, Thailand, dan Filipina",
+				ansSel: ["Libya, Saudi Arabia, Indonesia, dan Mesir","Israel, Mongolia, Libya, dan Korea Utara",null,"Jepang, Saudi Arabia, Mesir, dan Iran","Rusia, Singapura, Australia, dan Korea Selatan"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 49
 				ques: "Ciri-ciri negara:<br>(1) penguasaan teknologi tinggi;<br>(2) tingkat kelahiran penduduk rendah;<br>(3) tingkat pendapatan penduduk tinggi;<br>(4) tingkat pendidikan penduduk rendah;<br>(5) sumber perekonomian terbesar dari sektor agraris.<br>Ciri dari negara maju terdapat pada angka ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "(1), (2), dan (3)",
+				ansSel: [null,"(1), (2), dan (4)","(1), (3), dan (5)","(2), (4), dan (5)","(3), (4), dan (5)"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 50
