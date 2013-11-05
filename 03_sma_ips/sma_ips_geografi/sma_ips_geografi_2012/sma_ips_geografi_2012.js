@@ -264,8 +264,8 @@ $( function($){
 			},
 			{	//soal 44
 				ques: "<img src='sma_ips_geografi_2012_44.jpg'><br>Angka 5 pada gambar sesuai teori sektor menunjukkan zona ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "permukiman kelas atas",
+				ansSel: ["permukiman kelas rendah","permukiman kelas menengah",null,"penglaju/komuter","industri manufaktur"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 45
