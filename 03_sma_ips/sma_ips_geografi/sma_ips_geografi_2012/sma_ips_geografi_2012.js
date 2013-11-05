@@ -216,8 +216,8 @@ $( function($){
 			},
 			{	//soal 36
 				ques: "Jenis-jenis peta:<br>- peta Topografi;<br>- peta Curah Hujan;<br>- peta Jenis Tanah.<br>Informasi yang diperoleh dari peta tersebut adalah untuk menentukan lokasi kegiatan ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "pertanian",
+				ansSel: ["industri","kerajinan",null,"pertambangan","perdagangan"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 37
