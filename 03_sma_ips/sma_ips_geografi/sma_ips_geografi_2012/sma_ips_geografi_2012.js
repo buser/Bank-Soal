@@ -204,8 +204,8 @@ $( function($){
 			},
 			{	//soal 34
 				ques: "<img src='sma_ips_geografi_2012_34.jpg'><br>Ketinggian titik A sesuai ilustrasi gambar adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "200 m",
+				ansSel: ["100 m","150 m",null,"250 m","300 m"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 35
