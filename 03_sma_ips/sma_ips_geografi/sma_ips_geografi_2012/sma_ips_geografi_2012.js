@@ -1,5 +1,13 @@
 /*
-
+##################################################################################
+#                                 UJIAN NASIONAL                                 #
+#                                      SMA/MA                                    #
+#                           TAHUN PELAJARAN 2012/2013                            #
+#                Mata Pelajaran       : GEOGRAFI                                 #
+#                Program Studi        : IPS                                      #
+#                Hari/Tanggal         : Kamis, 18 April 2013                     #
+#                Waktu                : 10.30 – 12.30                            #
+##################################################################################
 */
 $( function($){
 	var quiz = {
