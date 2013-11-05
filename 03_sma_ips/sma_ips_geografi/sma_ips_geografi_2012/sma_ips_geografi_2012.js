@@ -240,8 +240,8 @@ $( function($){
 			},
 			{	//soal 40
 				ques: "<img src='sma_ips_geografi_2012_40.jpg'><br>Jika pabrik gula pasir didirikan di wilayah perkebunan maka pertimbangannya adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "dekat dengan bahan baku dan dekat sumber energi",
+				ansSel: ["biaya transportasi murah dan dekat sumber energi","mudah mendapat ijin usaha dan jauh dari pemukiman",null,"mudah mendapat bahan baku dan dekat sumber tenaga kerja","mudah memperoleh tenaga kerja dan dekat sumber energi"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 41
