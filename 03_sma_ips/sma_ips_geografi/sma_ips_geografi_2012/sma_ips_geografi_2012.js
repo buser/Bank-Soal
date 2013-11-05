@@ -282,8 +282,8 @@ $( function($){
 			},
 			{	//soal 47
 				ques: "<img src='sma_ips_geografi_2012_47.jpg'><br>Arah pembangunan wilayah yang pesat seperti gambar adalah dari pusat kegiatan menuju ke....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "pelabuhan laut karena letak strategis",
+				ansSel: [null,"pegunungan karena lahan masih luas","hulu sungai karena transportasi mudah dijangkau","tambang batubara karena banyak memerlukan fasilitas","perbukitan karena harga lahan murah"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 48
