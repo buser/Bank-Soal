@@ -300,8 +300,8 @@ $( function($){
 			},
 			{	//soal 50
 				ques: "Model pembangunan wilayah negara berkembang adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "menitikberatkan hasil industri dari sektor pertanian",
+				ansSel: ["menganut sistem ekonomi terbuka",null,"mengoptimalkan sumber daya manusia yang ada","mengeksploitasi sumber daya alam secara besar","meningkatkan mutu produk yang dihasilkan"],
 				ansInfo : "edufunia.com"
 			}
 		]
