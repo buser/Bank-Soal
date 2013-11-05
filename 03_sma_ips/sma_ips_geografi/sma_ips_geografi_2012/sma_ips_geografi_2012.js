@@ -234,8 +234,8 @@ $( function($){
 			},
 			{	//soal 39
 				ques: "Karakteristik obyek pada citra:<br>(1) bentuk dan ukuran rumah sama;<br>(2) pola perumahan memanjang mengikuti jalan tanah;<br>(3) jarak rumah satu sama lain sama;<br>(4) sekitar rumah terdapat pekarangan yang luasnya sama;<br>(5) tampak ada tanaman dari bertekstur sedang sampai kasar.<br>Obyek yang tergambar kemungkinan pemukiman di daerah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "transmigrasi",
+				ansSel: ["pedesaan","pantai",null,"perkotaan","pegunungan"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 40
