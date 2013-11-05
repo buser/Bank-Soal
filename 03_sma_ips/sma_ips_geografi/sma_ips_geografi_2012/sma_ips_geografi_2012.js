@@ -258,8 +258,8 @@ $( function($){
 			},
 			{	//soal 43
 				ques: "Ciri-ciri masyarakat desa:<br>(1) ketergantungan pada alam;<br>(2) adat-istiadat mengalami transisi;<br>(3) lembaga-lembaga sosial masih sederhana;<br>(4) mata pencaharian mulai heterogen;<br>(5) pendidikan dan keterampilan masih rendah.<br>Klasifikasi desa swakarya terdapat pada angka ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "(2), (3), dan (4)",
+				ansSel: ["(1), (3), dan (4)","(1), (4), dan (5)",null,"(2), (3), dan (5)","(3), (4), dan (5)"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 44
