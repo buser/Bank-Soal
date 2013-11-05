@@ -210,8 +210,8 @@ $( function($){
 			},
 			{	//soal 35
 				ques: "<img src='sma_ips_geografi_2012_35.jpg'><br>Skala peta 1 sesuai ilustrasi gambar adalah....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "1 : 15.000",
+				ansSel: ["1 : 2.500",null,"1 : 60.000","1 : 150.000","1 : 250.000"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 36
