@@ -252,8 +252,8 @@ $( function($){
 			},
 			{	//soal 42
 				ques: "Pernyataan:<br>(1) data dapat dikelola dalam format yang kompak dan jelas;<br>(2) data dapat dianalisis secara efisien;<br>(3) data mudah untuk dimanipulasi;<br>(4) data dapat diperjualbelikan;<br>(5) data harus dijaga karena sulit mendapat kannya.<br>Keunggulan dari Sistem Informasi Geografis terdapat pada angka ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "(1), (2), dan (3)",
+				ansSel: [null,"(1), (2), dan (4)","(1), (3), dan (5)","(2), (4), dan (5)","(3), (4), dan (5)"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 43
