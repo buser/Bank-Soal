@@ -6,7 +6,7 @@ Soal dibuat dengan menggunakan library ..............
 
 ##################################################################################
 #                                 UJIAN NASIONAL                                 #
-#                                      SMA/MA                                    #
+#                                     SMA/MA                                     #
 #                           TAHUN PELAJARAN 2012/2013                            #
 #                Mata Pelajaran       : GEOGRAFI                                 #
 #                Program Studi        : IPS                                      #
