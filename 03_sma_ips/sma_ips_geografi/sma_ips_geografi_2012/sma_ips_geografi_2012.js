@@ -186,8 +186,8 @@ $( function($){
 			},
 			{	//soal 31
 				ques: "Pemanfaatan sumber daya laut yang sesuai dengan pembangunan berkelanjutan adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "menangkap ikan dengan menggunakan jala",
+				ansSel: ["usaha tambak udang di muara sungai","membuat permukiman di sepanjang pantai","bertani di sekitar hutan mangrove",null,"penjualan pasir pantai untuk memenuhi kebutuhan ekonomi"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 32
