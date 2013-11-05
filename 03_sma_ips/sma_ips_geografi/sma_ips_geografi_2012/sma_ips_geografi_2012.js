@@ -276,8 +276,8 @@ $( function($){
 			},
 			{	//soal 46
 				ques: "<img src='sma_ips_geografi_2012_46.jpg'><br>Lokasi titik henti dari interaksi desa A ke kota B sesuai ilustrasi gambar adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "3,3 km dari A",
+				ansSel: ["3,3 km dari B",null,"4,3 km dari B","4,3 km dari A","5,1 km dari B"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 47
