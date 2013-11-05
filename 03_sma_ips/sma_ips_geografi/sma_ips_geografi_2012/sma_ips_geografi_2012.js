@@ -270,8 +270,8 @@ $( function($){
 			},
 			{	//soal 45
 				ques: "<img src='sma_ips_geografi_2012_45.jpg'><br>Pola pemukiman desa yang terbentuk pada gambar adalah ....", 
-				ans: "",
-				ansSel: ["","","","",""],
+				ans: "pola memanjang",
+				ansSel: [null,"pola menyebar","pola memusat","pola terbuka","pola mengelompok"],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 46
