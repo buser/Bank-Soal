@@ -40,13 +40,13 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 4
-				ques: "", 
+				ques: "Kondisi yang aman dari ancaman pihak luar, dinamis dan teratur dalam menjalani kehidupan dimana setiap individu bertindak sesuai hak dan kewajibannya, merupakan unsur-unsur terwujudnya ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 5
-				ques: "", 
+				ques: "Perhatikan perilaku berikut!<br>(1) Menggunakan tangan kanan ketika bersalaman<br>(2) Melambaikan kedua tangan saat menonton pertandingan<br>(3) Mengucapkan terima kasih setelah mendapat pertolongan<br>(4) Menulis catatan pelajaran di kelas menggunakan tangan kanan<br>(5) Memberikan sesuatu kepada orang lain dengan tangan kanan", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
