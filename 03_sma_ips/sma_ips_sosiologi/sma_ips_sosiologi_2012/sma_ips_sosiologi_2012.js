@@ -148,37 +148,37 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 22
-				ques: "", 
+				ques: "Raden Bawono seorang mahasiswa yang dibesarkan di lingkungan keraton/feodal dan memegang teguh tradisi yang berlaku dalam keluarga. Selama di kampus dia merasa kesulitan dalam menyesuaikan diri dengan teman-temannya yang datang dari berbagai latar belakang sosial budaya. Dia cenderung membatasi pergaulannya dan tidak terlibat aktif dalam organisasi kampus. Dalam contoh kasus tersebut terdapat faktor yang menghambat terjadinya mobilitas sosial, yaitu ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 23
-				ques: "", 
+				ques: "Amin tidak sanggup membayar uang masuk perguruan tinggi favorit meskipun secara akademik ia diterima. Berdasarkan prediksi, kalau ia kelak lulus dari perguruan tinggi tersebut, ia dapat mengubah nasib keluarganya. Hal ini menggambarkan tentang kesulitannya untuk melakukan mobilitas sosial ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 24
-				ques: "", 
+				ques: "Kesuksesan Pak Beni dalam memimpin perusahaan jasa pariwisata, mengantarkan ia menjadi ketua forum silaturahmi pariwisata Indonesia. Sebagai ketua forum, relasi Pak Beni semakin luas, dan semakin dikenal di dunia pariwisata. Akhirnya Pak Beni diangkat oleh Presiden menjadi Menteri Pariwisata. Saluran mobilitas sosial yang berfungsi pada contoh ini adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 25
-				ques: "", 
+				ques: "Tarik ulur peran dalam penanganan kasus korupsi antara KPK dan Kepolisian semakin lama tidak bisa dihindari. Konflik tersebut menyebabkan Presiden terlibat untuk mengatur kewenangan masing-masing lembaga. Langkah tepat yang diambil Presiden untuk mengatasi konflik tersebut adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 26
-				ques: "", 
+				ques: "Seorang pegawai mendengarkan musik dengan volume cukup keras ketika sedang bekerja, tanpa memedulikan teman atau orang-orang di sekitarnya yang juga sedang bekerja dan tidak menyukai suara musik yang keras. Akibatnya, antara ia dan teman-temannya sering terjadi konflik. Konflik demikian disebabkan karena adanya perbedaan ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 27
-				ques: "", 
+				ques: "Masyarakat sekitar daerah pesisir, cenderung memiliki struktur sosial yang terbuka, lebih dinamis, dan heterogen. Sedangkan masyarakat yang jauh dari pesisir, cenderung lebih tertutup, statis, dan homogen. Kemajemukan atau perbedaan sosial tersebut, disebabkan oleh faktor ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
