@@ -112,37 +112,37 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 16
-				ques: "", 
+				ques: "Perhatikan pernyataan berikut!<br>(1) Memilih pemimpin berdasarkan latar belakang budaya yang sama<br>(2) Mempelajari keragaman budaya yang ada di wilayah Indonesia<br>(3) Menjiwai aturan adat istiadat leluhur dalam menjalani kehidupan<br>(4) Melakukan peleburan budaya melalui perkawinan antarsuku<br>(5) Memberikan kesempatan investasi kepada pengusaha asing<br><br>Yang merupakan perilaku sesuai dengan toleransi masyarakat multikultural adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 17
-				ques: "", 
+				ques: "Kemajemukan masyarakat Indonesia antara lain ditandai oleh adanya keanekaragaman mata pencarian di bidang agraris, misalnya ada masyarakat yang hidup berladang dan ada masyarakat yang hidup dengan mengolah sawah. Faktor yang menyebabkan kondisi kemajemukan demikian adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 18
-				ques: "", 
+				ques: "Masa reformasi di Indonesia yang dimulai tahun 1998 menandai berakhirnya politik dinasti yang dimonopoli kelompok tertentu. Hal ini berakibat pada dimulainya penentuan status kepemimpinan nasional yang dipilih berdasarkan ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 19
-				ques: "", 
+				ques: "Di kota besar seperti Jakarta, masuknya pendatang berdampak pada tergesernya dominasi penduduk asli. Dalam penyelenggaraan kekuasaan melibatkan para pendatang sehingga membentuk komposisi baru di masyarakat yang berupa ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 20
-				ques: "", 
+				ques: "Perhatikan ciri kelompok sosial berikut!<br>(1) Tugas-tugas didistribusikan dalam beberapa posisi sesuai jabatan<br>(2) Terdapat hubungan antarpribadi yang bersifat intim dan hangat<br>(3) Terdiri dari struktur yang bersifat hierarki dan berjenjang<br>(4) Terjadinya kelompok karena seringnya intensitas pertemuan<br>(5) Tata perilaku ditentukan oleh sistem peraturan yang ada<br><br>Yang termasuk karakteristik kelompok sosial formal adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 21
-				ques: "", 
+				ques: "Munculnya elit politik baru yang berkuasa di masa reformasi sekarang ini seringkali menimbulkan kecemburuan sosial dalam masyarakat dan ketegangan antara elit partai politik. Hal ini berpotensi menimbulkan masalah berupa ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
