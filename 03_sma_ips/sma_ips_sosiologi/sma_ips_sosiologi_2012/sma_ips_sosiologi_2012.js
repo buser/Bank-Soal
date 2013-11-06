@@ -46,37 +46,37 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 5
-				ques: "Perhatikan perilaku berikut!<br>(1) Menggunakan tangan kanan ketika bersalaman<br>(2) Melambaikan kedua tangan saat menonton pertandingan<br>(3) Mengucapkan terima kasih setelah mendapat pertolongan<br>(4) Menulis catatan pelajaran di kelas menggunakan tangan kanan<br>(5) Memberikan sesuatu kepada orang lain dengan tangan kanan", 
+				ques: "Perhatikan perilaku berikut!<br>(1) Menggunakan tangan kanan ketika bersalaman<br>(2) Melambaikan kedua tangan saat menonton pertandingan<br>(3) Mengucapkan terima kasih setelah mendapat pertolongan<br>(4) Menulis catatan pelajaran di kelas menggunakan tangan kanan<br>(5) Memberikan sesuatu kepada orang lain dengan tangan kanan<br>Yang termasuk contoh penerapan norma kesopanan adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 6
-				ques: "", 
+				ques: "Sosiolog dapat memberikan sumbangan berkaitan dengan cara kerja yang sistematis dalam suatu penelitian sosial maupun pemecahan masalah sosial sehingga dapat mencapai tujuan sesuai dengan harapan masyarakat. Dalam hal ini sosiologi berfungsi sebagai ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 7
-				ques: "", 
+				ques: "Perhatikan pernyataan berikut!<br>(1) Rusaknya infrastruktur akibat bencana alam<br>(2) Persebaran penduduk ke dalam kelas-kelas sosial<br>(3) Perkembangan teknologi baru yang tepat guna<br>(4) Kedudukan seseorang dalam kelompok<br>(5) Kehidupan lintas etnik dan budaya<br>Yang termasuk objek kajian sosiologi adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 8
-				ques: "", 
+				ques: "Komandan upacara memberi aba-aba kepada peserta upacara dan dipatuhi sehingga terjadi interaksi sosial yang baik. Ciri yang sangat menonjol dalam contoh interaksi tersebut adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 9
-				ques: "", 
+				ques: "Sesuai dengan peraturan yang kuat melalui <i>awig-awig</i>, penduduk desa Tenganan Bali Aga menjaga kehidupan warganya termasuk pernikahan antara sesama warga desa untuk memastikan kemurnian keturunan. Lembaga yang berfungsi menjaga keutuhan ikatan masyarakat desa tersebut bagi mereka yang melanggar adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 1O
-				ques: "", 
+				ques: "Akhir-akhir ini banyak kaum perempuan yang berpendidikan tinggi terlibat kasus tindak pidana korupsi, selanjutnya dihukum penjara dan dijatuhi denda. Pengendalian sosial di atas bersifat represif yang bertujuan untuk ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
