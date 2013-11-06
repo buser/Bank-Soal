@@ -82,31 +82,31 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 11
-				ques: "", 
+				ques: "Sekelompok massa melakukan tindakan pemu kulan terhadap seorang yang disangka melakukan pencurian di sebuah rumah. Dilihat dari pelakunya, tindakan tersebut merupakan bentuk pengendalian ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 12
-				ques: "", 
+				ques: "Banyaknya kasus penyalahgunaan narkotika yang dilakukan oleh remaja disebabkan oleh mudahnya mendapatkan barang tersebut melalui agen-agen gelap yang masuk di semua sektor kehidupan seperti sekolah, pusat keramaian, dan kampung-kampung. Berdasarkan tingkat penerimaan masyarakat, mengonsumsi narkoba tergolong sebagai penyimpangan ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 13
-				ques: "", 
+				ques: "Melakukan sosialisasi peraturan daerah antirokok sebelum peraturan diberlakukan merupakan upaya mengatur perilaku masyarakat melalui upaya pengendalian sosial. Hal ini bertujuan untuk ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 14
-				ques: "", 
+				ques: "Perhatikan pernyataan berikut!<br>(1) Budi seorang yang kaya karena kerja keras yang tiada henti<br>(2) Candra setiap hari nongkrong di pinggir jalan ikut geng motor di kotanya<br>(3) Seorang remaja menjadi pemurung karena orangtuanya sering bertengkar<br>(4) Berjudi masih menjadi kebiasaan rutin bagi sebagian kecil warga masyarakat<br>(5) Wawan menjadi berandal ketika bergaul dengan kelompok yang suka berkelahi<br><br>Yang termasuk perilaku menyimpang karena adanya sosialisasi subkebudayaaan adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 15
-				ques: "", 
+				ques: "Pimpinan perusahaan bersepakat untuk membentuk forum komunikasi dengan para buruh untuk mewujudkan keinginan-keinginan yang berbeda antara pimpinan dan pekerja perusahaan. Interaksi asosiatif tersebut merupakan bentuk dari ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
