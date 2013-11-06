@@ -22,19 +22,19 @@ $( function($){
 	var quiz = {
 		"multiList" : [
 			{	//soal 1
-				ques: "", //question
+				ques: "Rino berusia 3 tahun sedang bermain dengan teman-teman sebayanya. la berperan sebagai dokter gigi sementara teman yang lain menjadi pasiennya. Tahap pembentukan kepribadian bagi Rino termasuk pada ....", //question
 				ans: "", // answer
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"  // answer information.
 			},
 			{	//soal 2
-				ques: "", 
+				ques: "Sejak internet masuk ke sekolah, para siswa dianjurkan menggunakannya sebagai sumber belajar. Disamping itu, para siswa juga menggunakannya untuk mengerjakan tugas sekolah dalam jejaring sosial. Setelah terbiasa berinternet, para siswa merasa menjadi bodoh dan ketinggalan zaman tanpa internet. Peran internet dalam pembentukan kepribadian siswa tersebut adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 3
-				ques: "", 
+				ques: "Karena kemiskinan di kampung halamannya, seseorang mencoba merantau ke kota. Di kota ia bergaul dengan masyarakat sekitar, mempelajari kebiasaan-kebiasaan orang di kota dengan tujuan agar dapat menyesuaikan diri dengan nilai dan norma masyarakat. Peran yang dimainkan orang tersebut merupakan tujuan sosialisasi, yaitu ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
