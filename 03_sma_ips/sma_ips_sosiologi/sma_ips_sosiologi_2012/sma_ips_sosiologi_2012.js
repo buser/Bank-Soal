@@ -184,49 +184,49 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 28
-				ques: "", 
+				ques: "Perhatikan gambar berikut!<br>gambar<br>Struktur majemuk di atas berpotensi terjadinya", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 29
-				ques: "", 
+				ques: "Perhatikan gambar berikut!<br>gambar<br>Dari stratifikasi tersebut yang menempati posisi kelas atas adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 30
-				ques: "", 
+				ques: "Pengelompokan anggota masyarakat berdasarkan ras, misal Australoid, Mongoloid, Caucasoid, dan Negroid merupakan keanekaragaman dalam membentuk struktur sosial yang terjadi berdasarkan parameter ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 31
-				ques: "", 
+				ques: "Salah satu fungsi DPR sebagai badan legislatif adalah membuat UU bagi pelaksanaan jalannya pemerintahan.<br>Tujuan lembaga politik tersebut adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 32
-				ques: "", 
+				ques: "Pada lembaga ekonomi, aktivitas pengeluaran barang dari produsen ke konsumen diatur oleh tata cara untuk menjalin hubungan baik antara pembeli dan penjual sesuai ketersediaan barang. Fungsi diadakannya tata cara tersebut adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 33
-				ques: "", 
+				ques: "Lembaga pendidikan merupakan tempat berlangsungnya kegiatan pembelajaran siswa untuk menimba ilmu pengetahuan demi masa depan siswa. Pada hakikatnya, fungsi utama lembaga tersebut adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 34
-				ques: "", 
+				ques: "Dinda terpilih menjadi ketua OSIS. Meskipun menjadi ketua OSIS, tidak mengurangi tugas pokok Dinda sebagai pelajar sehingga Dinda tidak pernah ketinggalan dalam hal pelajaran. Salah satu fungsi laten lembaga pendidikan pada ilustrasi di atas adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 35
-				ques: "", 
+				ques: "Globalisasi memudahkan generasi muda menikmati musik, film, dan produk budaya asing lainnya. Hal ini berpotensi runtuhnya budaya luhur bangsa yang dilupakan oleh generasi mudanya. Solusi dari gejala ini adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
