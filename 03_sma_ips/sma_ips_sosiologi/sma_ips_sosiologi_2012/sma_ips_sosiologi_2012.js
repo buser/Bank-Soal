@@ -316,7 +316,7 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 50
-				ques: "", 
+				ques: "Untuk mengetahui sejauh mana dana BOS (Bantuan Operasional Siswa) yang diberikan oleh pemerintah telah tersalur dengan tepat, maka beberapa LSM (Lembaga Swadaya Masyarakat) melakukan penelitian ke sejumlah sekolah untuk memantau pelaksanaan program dengan menyebar angket. Penelitian yang dilakukan oleh lembaga tersebut termasuk metode penelitian ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
