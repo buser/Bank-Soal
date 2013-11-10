@@ -292,7 +292,7 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 46
-				ques: "", 
+				ques: "Data jumlah kunjungan wisatawan mancanegara yang berkunjung ke Indonesia:<br>[gambar]<br>Jumlah kunjungan wisatawan mancanegara ke Indonesia mengalami peningkatan tertinggi pada tahun ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
