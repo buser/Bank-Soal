@@ -298,19 +298,19 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 47
-				ques: "", 
+				ques: "Peneliti menemukan populasi yang akan diteliti cenderung homogen meskipun jumlahnya banyak. la ingin agar seluruh populasi dapat terwakili, teknik sampling yang cocok digunakan adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 48
-				ques: "", 
+				ques: "Penelitian terhadap kesiapan siswa kelas XII SMA di Jombang dalam menghadapi UN dan SNMPTN dilakukan dengan menyebar angket. Kelemahan dari teknik pengumpulan data tersebut adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 49
-				ques: "", 
+				ques: "Setelah kenaikan harga BBM kehidupan nelayan mengalami keterpurukan. Kegiatan melaut menjadi berkurang karena tidak mampu membeli BBM. Hasil tangkapan tidak mencukupi untuk menafkahi keluarga. Dari ilustrasi tersebut, jika dilakukan penelitian rumusan masalah yang tepat adalah...", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
