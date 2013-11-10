@@ -232,19 +232,19 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 36
-				ques: "", 
+				ques: "Lembaga kepolisian diperlukan masyarakat dalam rangka memperoleh tatanan kehidupan yang harmoni di antara warga masyarakat. Bila terjadi penyimpangan ukum dari anggota masyarakat maka lembaga tersebut diharapkan dapat memulihkan pada tatanan yang benar.<br>Pembentukan lembaga tersebut bertujuan untuk ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 37
-				ques: "", 
+				ques: "Perhatikan beberapa pernyataan berikut!<br>(1) Pertentangan atau konflik antarkelompok dalam masyarakat<br>(2) Terjadinya revolusi atau pemberontakan dalam suatu masyarakat<br>(3) Terjadinya akulturasi dan asimilasi budaya secara massive<br>(4) Terlibat perang dengan negara lain yang bersengketa<br>(5) Perkawinan antarras yang disebut amalga masi<br><br>Yang merupakan faktor penyebab perubahan yang berasal dari luar masyarakat adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 38
-				ques: "", 
+				ques: "Transaksi keuangan antarnegara kini tidak harus dengan membawa uang tunai, tetapi bisa menggunakan internet banking. Kemudahan transaksi melalui teknologi internet tersebut merupakan akibat dari adanya ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
