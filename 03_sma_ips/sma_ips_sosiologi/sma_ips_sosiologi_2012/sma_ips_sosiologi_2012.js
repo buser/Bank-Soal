@@ -250,43 +250,43 @@ $( function($){
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 39
-				ques: "", 
+				ques: "Operasi pasar dilakukan oleh pemerintah selama bulan Ramadan untuk menjamin harga kebutuhan pokok tidak naik. Aktivitas tersebut berkaitan dengan tujuan politik pemerintah, yaitu ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 40
-				ques: "", 
+				ques: "Proses globalisasi tidak hanya membawa dampak positif, tetapi juga membawa ekses seperti perilaku hidup bersenang-senang tanpa memedulikan lingkungan sekitar. Dampak negatif perilaku tersebut ditinjau dari sudut sosiologis adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 41
-				ques: "", 
+				ques: "Sejak Reformasi tahun 1998, kehidupan multipartai dalam sistem politik Indonesia semakin kompleks. Puluhan partai politik turut serta dalam pemilu. Dampak positif bagi masyarakat dalam menyalurkan aspirasi adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 42
-				ques: "", 
+				ques: "Perhatikan gambar berikut! [gambar] Bentuk proses perubahan sosial seperti pada gambar adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 43
-				ques: "", 
+				ques: "Perhatikan gejala dinamika sosial berikut!<br>(1) Rekrutmen sosial yang tidak lagi dibatasi oleh perbedaan agama, suku bangsa, ras, atau golongan<br>(2) Semakin banyaknya jumlah kelompok sosial mengakomodasi kepentingan organisasi tertentu<br>(3) Pola hubungan antara pekerja dengan majikan menjadi buruk karena sistem pengupahan yang murah<br>(4) Semakin kompleksnya lembaga atau pranata sosial yang diperlukan untuk menata aktivitas warga masyarakat<br>(5) Rekayasa garam untuk memunculkan hujan buatan di wilayah kering<br><br>Yang termasuk kategori perubahan sosial direncanakan adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 44
-				ques: "", 
+				ques: "Presentasi laporan hasil penelitian merupakan kegiatan lanjutan sebagai tanggung jawab peneliti untuk menindaklanjuti hasil temuan di lapangan. Dalam presentasi penelitian dihadirkan pihak-pihak terkait disesuaikan dengan materi dan kajian dalam penelitian. Kegunaan presentasi laporan penelitian tersebut untuk perkembangan keilmuan sosiologi adalah ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
 			},
 			{	//soal 45
-				ques: "", 
+				ques: "Beberapa bagian dalam laporan penelitian:<br>(1) Latar belakang masalah<br>(2) Kerangka teori<br>(3) Rumusan masalah<br>(4) Kajian teori dan hipotesis<br>(5) Tujuan dan manfaat penelitian<br><br>Bab pendahuluan dari suatu laporan penelitian terdiri atas ....", 
 				ans: "",
 				ansSel: ["","","","",""],
 				ansInfo : "edufunia.com"
